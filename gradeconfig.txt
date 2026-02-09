@@ -1,0 +1,7 @@
+CMSC203 Computer Science I
+5
+Projects 20
+Quizzes 20
+Exams 20
+Labs 20
+Homework 20

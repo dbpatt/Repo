@@ -1,0 +1,26 @@
+========================================
+   CMSC203 Project 1 - Grade Calculator
+========================================
+
+Configuration loaded successfully.
+
+Using input file: grades_input.txt
+Using output file: grades_report.txt
+
+Reading student scores...
+
+Student: Chris Thompson
+Course: CMSC203 Computer Science I
+
+Category Results:
+  Projects (20%): average = 87.67
+  Quizzes (20%): average = 86.50
+  Exams (20%): average = 86.50
+  Labs (20%): average = 90.00
+  Homework (20%): average = 87.80
+
+Apply +/- grading? (Y/N): n
+
+Overall numeric average: 87.69
+Base letter grade: B
+Final letter grade: B

@@ -1,0 +1,17 @@
+Chris
+Thompson
+Projects
+3
+85.0 90.0 88.0
+Quizzes
+4
+86.0 88.0 85.0 87.0
+Exams
+2
+87.0 86.0
+Labs
+3
+90.0 92.0 88.0
+Homework
+5
+85.0 88.0 90.0 87.0 89.0
